@@ -1,1 +1,3 @@
 hi this is yamuna
+The pull command is an interface between the fetch and merge
+When the pull is used
